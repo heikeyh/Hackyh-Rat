@@ -1,0 +1,773 @@
+﻿cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9025: 正在重写“/Zc:forScope”(用“/Zc:forScope-”)
+cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9025: 正在重写“/Zc:forScope”(用“/Zc:forScope-”)
+  Audio.cpp
+  AudioDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  BmpToAvi.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  BuildServer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  ChangeGroup.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  ClienttProxy.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  FileManagerDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  FileTransferModeDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  gh0st.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  gh0stDoc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  gh0stView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  Buffer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  CpuUsage.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  IOCPServer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  IniFile.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  InputDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  KeyBoardDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  LoginDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  RegDataDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  正在生成代码...
+  正在编译...
+  RegDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  ScreenSpyDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  SendMsg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  SerAttribDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  ServersDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  Settings.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  SEU_QQwry.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  ShellDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  SysInfo.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  SystemDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  TrayIcon.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  TrueColorToolBar.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  WebCamDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Automatically linking with ToolkitPro1850vc150S.lib
+  正在生成代码...
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1423,5): warning MSB8012: TargetPath(C:\Users\heike\Desktop\本机研究原理\gh0st\Release\gh0st.exe) 与 Linker 的 OutputFile 属性值(C:\Users\heike\Desktop\本机研究原理\Bin\远控.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1425,5): warning MSB8012: TargetName(gh0st) 与 Linker 的 OutputFile 属性值(远控)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+LINK : warning LNK4217: 符号“_malloc”(在“ libucrt.lib(malloc.obj)”中定义)已由“zlib_noinflate.lib(zutil.obj)”(函数“_zcalloc”中)导入
+LINK : warning LNK4217: 符号“_free”(在“ libucrt.lib(free.obj)”中定义)已由“zlib_noinflate.lib(zutil.obj)”(函数“_zcfree”中)导入
+  gh0st.vcxproj -> C:\Users\heike\Desktop\本机研究原理\gh0st\Release\gh0st.exe
