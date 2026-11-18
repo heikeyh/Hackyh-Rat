@@ -1,0 +1,1184 @@
+﻿cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9025: 正在重写“/Zc:forScope”(用“/Zc:forScope-”)
+cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+cl : 命令行  warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+cl : 命令行  warning D9025: 正在重写“/Zc:forScope”(用“/Zc:forScope-”)
+  Audio.cpp
+  AudioDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  BmpToAvi.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  BuildServer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  ChangeGroup.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  ClienttProxy.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  FileManagerDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  FileTransferModeDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  gh0st.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  gh0stDoc.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  gh0stView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Buffer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  CpuUsage.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  IOCPServer.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  IniFile.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  InputDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  KeyBoardDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  LoginDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  RegDataDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  正在生成代码...
+  正在编译...
+  RegDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  ScreenSpyDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  SendMsg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  SerAttribDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  ServersDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  Settings.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  SEU_QQwry.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  ShellDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  SysInfo.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  SystemDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  TrayIcon.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  TrueColorToolBar.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  WebCamDlg.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  --------------------------------------------------------------------------------
+  Including Xtreme Toolkit Pro
+  Including Markup         (Use _XTP_EXCLUDE_MARKUP         to exclude from build)
+  Including TabManager     (Use _XTP_EXCLUDE_TABMANAGER     to exclude from build)
+  Including Controls       (Use _XTP_EXCLUDE_CONTROLS       to exclude from build)
+  Including Calendar       (Use _XTP_EXCLUDE_CALENDAR       to exclude from build)
+     - Calendar MAPI support excluded from build (Use _XTP_INCLUDE_CALENDAR_MAPI to include it)
+  Including Chart          (Use _XTP_EXCLUDE_CHART          to exclude from build)
+  Including CommandBars    (Use _XTP_EXCLUDE_COMMANDBARS    to exclude from build)
+  Including DockingPane    (Use _XTP_EXCLUDE_DOCKINGPANE    to exclude from build)
+  Including FlowGraph      (Use _XTP_EXCLUDE_FLOWGRAPH      to exclude from build)
+  Including GraphicLibrary (Use _XTP_EXCLUDE_GRAPHICLIBRARY to exclude from build)
+  Including PropertyGrid   (Use _XTP_EXCLUDE_PROPERTYGRID   to exclude from build)
+  Including ReportControl  (Use _XTP_EXCLUDE_REPORTCONTROL  to exclude from build)
+  Including Ribbon         (Use _XTP_EXCLUDE_RIBBON         to exclude from build)
+  Including ShortcutBar    (Use _XTP_EXCLUDE_SHORTCUTBAR    to exclude from build)
+  Including SkinFramework  (Use _XTP_EXCLUDE_SKINFRAMEWORK  to exclude from build)
+  Including SyntaxEdit     (Use _XTP_EXCLUDE_SYNTAXEDIT     to exclude from build)
+  Including TaskPanel      (Use _XTP_EXCLUDE_TASKPANEL      to exclude from build)
+  --------------------------------------------------------------------------------
+  正在生成代码...
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1424,5): warning MSB8012: TargetPath(C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\gh0st.exe) 与 Linker 的 OutputFile 属性值(C:\Users\heike\Desktop\本机研究原理\Bin\远控.exe)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1426,5): warning MSB8012: TargetName(gh0st) 与 Linker 的 OutputFile 属性值(远控)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+zlib1211_x64_mt.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(compress.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(uncompr.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(deflate.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(inflate.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(inflate.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(trees.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(adler32.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(crc32.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(zutil.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(inftrees.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib1211_x64_mt.lib(inffast.obj) : warning LNK4099: 未找到 PDB“zlib1211_x64_mt.pdb”(使用“zlib1211_x64_mt.lib(inffast.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\zlib1211_x64_mt.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportDeprecated.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportDeprecated.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecords.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecords.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFramework.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFramework.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomHeap.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomHeap.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBars.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBars.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportColumn.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportColumn.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecord.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecord.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItem.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItem.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRows.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRows.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportSelectedRows.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportSelectedRows.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportView.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportView.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResourceImage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResourceImage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOptions.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOptions.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPDockState.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPDockState.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPShortcutManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPShortcutManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameWnd.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameWnd.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizePageCommands.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizePageCommands.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizePageOptions.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizePageOptions.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizePageKeyboard.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizePageKeyboard.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizeSheet.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizeSheet.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlEdit.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlEdit.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPColorManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPColorManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportNavigator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportNavigator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(StdAfx.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(StdAfx.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeEnumeratorPtr.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeEnumeratorPtr.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeSection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeSection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPToolBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPToolBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPopupBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPopupBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMenuBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMenuBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPDockBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPDockBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSystemHelpers.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSystemHelpers.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResourceManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResourceManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPImageManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPImageManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchange.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchange.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeArchive.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeArchive.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPToolTipContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPToolTipContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPDrawHelpers.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPDrawHelpers.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlActions.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlActions.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControls.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControls.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPKeyboardManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPKeyboardManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMouseManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMouseManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizeTools.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizeTools.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlExt.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlExt.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabClientWnd.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabClientWnd.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameHook.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameHook.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPGdiObjects.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPGdiObjects.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRender.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRender.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportColumns.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportColumns.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportSubListControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportSubListControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemEditOptions.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemEditOptions.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportHeader.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportHeader.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBehavior.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBehavior.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportTip.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportTip.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRow.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRow.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportIconNavigator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportIconNavigator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportGroupRow.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportGroupRow.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportInplaceEdit.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportInplaceEdit.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportInplaceControls.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportInplaceControls.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemRange.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemRange.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportSection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportSection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportSections.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportSections.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBorder.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBorder.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThickness.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThickness.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportDataManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportDataManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemVariant.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemVariant.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemIcon.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemIcon.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemText.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemText.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeDefault.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeDefault.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeExplorer.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeExplorer.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2003Luna.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2003Luna.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemPreview.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemPreview.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportHyperlink.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportHyperlink.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemConstraint.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemConstraint.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemControls.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportRecordItemControls.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarCtrl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarCtrl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportPageSetupDialog.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportPageSetupDialog.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSingleton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSingleton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPNotifyConnection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPNotifyConnection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPHookManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPHookManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPWinThemeWrapper.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPWinThemeWrapper.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeWindowsUx.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeWindowsUx.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBox.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBox.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPGdiPlus.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPGdiPlus.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPProgressPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPProgressPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSliderThemeOffice2007System.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSliderThemeOffice2007System.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2010.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2010.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2007System.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2007System.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2000Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2000Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOfficeXPTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOfficeXPTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2003Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2003Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2007SystemTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2007SystemTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2013Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsOffice2013Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsResourceTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsResourceTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsNativeXPTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsNativeXPTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio6Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio6Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2005Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2005Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2008Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2008Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2010Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2010Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2012Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2012Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2015Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsVisualStudio2015Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsThemeRibbon.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsThemeRibbon.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeOffice2007System.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeOffice2007System.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGallery.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGallery.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMenuBarMDIMenuInfo.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMenuBarMDIMenuInfo.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMenuBarMDIMenus.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMenuBarMDIMenus.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlAction.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlAction.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlPopup.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlPopup.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResizeRect.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResizeRect.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResizePoint.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResizePoint.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResize.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResize.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropertyPage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropertyPage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropertySheet.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropertySheet.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPImageEditor.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPImageEditor.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCustomizePageToolbars.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCustomizePageToolbars.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarPane.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarPane.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxAutoCompleteWnd.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxAutoCompleteWnd.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeRegistry.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeRegistry.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeIniFile.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeIniFile.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPDockContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPDockContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeXMLNode.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeXMLNode.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPImageManagerResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPImageManagerResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPGraphicBitmapPng.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPGraphicBitmapPng.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropExchangeEnumerator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropExchangeEnumerator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRichRender.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRichRender.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMathUtils.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMathUtils.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlCustom.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlCustom.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarAnimation.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarAnimation.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRecentFileList.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRecentFileList.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabManagerNavigateButtons.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabManagerNavigateButtons.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabManagerItem.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabManagerItem.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabPaintManagerTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabPaintManagerTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2010.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2010.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(Workspace.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(Workspace.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(SingleWorkspace.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(SingleWorkspace.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(TabClientDropTarget.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(TabClientDropTarget.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(NavigateButtonActiveFiles.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(NavigateButtonActiveFiles.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPWinEventHook.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPWinEventHook.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameShadowManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameShadowManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonPopups.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonPopups.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonTab.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonTab.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonQuickAccessControls.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonQuickAccessControls.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonGroups.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonGroups.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonGroup.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonGroup.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonControlTab.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonControlTab.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonSystemButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonSystemButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageView.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageView.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSynchro.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSynchro.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupObject.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupObject.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupInputElement.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupInputElement.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupUIElement.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupUIElement.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDrawingContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDrawingContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupBuilder.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupBuilder.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupParser.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupParser.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportDragDrop.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportDragDrop.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportFilterEditControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportFilterEditControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowMouseButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowMouseButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowMouse.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowMouse.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorSchemeOutlook.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorSchemeOutlook.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportControlLocale.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportControlLocale.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBase.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBase.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeWindowsClassic.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeWindowsClassic.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeUltraFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeUltraFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2000.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2000.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPScrollBarThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPApplication.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPApplication.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonTabTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonTabTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonTabColorSet.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonTabColorSet.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxList.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxList.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxEditCtrl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxEditCtrl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxPopupBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxPopupBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryItem.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryItem.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlProgress.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlProgress.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSliderPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSliderPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarPaneSwitch.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarPaneSwitch.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(unzip.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(unzip.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupThemePart.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupThemePart.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFramePaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFramePaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonMarkupFrameTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonMarkupFrameTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsColorSetOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsColorSetOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsModernUITheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsModernUITheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryOffice2013Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryOffice2013Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPProgressThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPProgressThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSliderThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSliderThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPProgressThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPProgressThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSliderThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSliderThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2007.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeOffice2007.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryResourceTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryResourceTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2010.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2010.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarsColorSetVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarsColorSetVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeModernUI.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeModernUI.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryVisualStudio2015Theme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryVisualStudio2015Theme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPProgressThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPProgressThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSliderThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSliderThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMessageBarThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPStatusBarThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonMarkupTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonMarkupTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlGalleryItems.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlGalleryItems.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxGalleryPopupBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlComboBoxGalleryPopupBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPResizeGroupBox.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPResizeGroupBox.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPGlobal.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPGlobal.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPPropertyPageNavigator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPPropertyPageNavigator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPDialogBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPDialogBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(png.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(png.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngread.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngread.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngrtran.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngrio.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngget.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngget.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabManagerNavigateButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabManagerNavigateButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabPaintManagerColorSet.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabPaintManagerColorSet.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeStateButtons.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeStateButtons.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeOffice2000.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeOffice2000.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageSelected.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageSelected.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPage2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPage2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPage2007.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPage2007.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageAccess2007.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemePropertyPageAccess2007.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeExcel2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeExcel2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisio.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisio.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2005.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabThemeVisualStudio2005.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetDefault.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetDefault.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2007.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2007.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2007Access.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2007Access.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2005.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2005.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2008.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2008.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2010.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2010.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2012Dark.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetVisualStudio2012Dark.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabColorSetWinNative.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabColorSetWinNative.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFrameShadow.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFrameShadow.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPCommandBarScrollBarCtrl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPCommandBarScrollBarCtrl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageCommand.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageCommand.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageTab.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageTab.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageMenuSeparator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageMenuSeparator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstagePaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstagePaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageViewThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupString.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupString.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupStyle.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupStyle.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupSetter.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupSetter.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupSetterCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupSetterCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTrigger.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTrigger.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTriggerCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTriggerCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupResourceDictionary.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupResourceDictionary.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupKeyboardNavigation.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupKeyboardNavigation.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRoutedEvent.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRoutedEvent.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupEventHandlerMap.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupEventHandlerMap.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRenderTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRenderTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupThickness.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupThickness.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDeviceContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDeviceContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusDeviceContext.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusDeviceContext.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPActiveScriptEngine.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPActiveScriptEngine.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupFrameworkElement.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupFrameworkElement.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseEventArgs.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseEventArgs.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseButtonEventArgs.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseButtonEventArgs.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseWheelEventArgs.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupMouseWheelEventArgs.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupQueryCursorEventArgs.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupQueryCursorEventArgs.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupFrameworkContentElement.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupFrameworkContentElement.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusRotateTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusRotateTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusScaleTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusScaleTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusSkewTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusSkewTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTranslateTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTranslateTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupShape.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupShape.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPath.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPath.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPolygon.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPolygon.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPolyline.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPolyline.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupLine.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupLine.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupEllipse.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupEllipse.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRectangle.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRectangle.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometry.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometry.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometryFigures.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometryFigures.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPathData.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPathData.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPanel.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPanel.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupBorder.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupBorder.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupImage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupImage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDockPanel.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDockPanel.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupWrapPanel.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupWrapPanel.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDefinitionBase.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDefinitionBase.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupColumnDefinition.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupColumnDefinition.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRowDefinition.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRowDefinition.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupStackPanel.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupStackPanel.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGrid.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGrid.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupCanvas.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupCanvas.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTextBlock.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTextBlock.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupScrollViewer.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupScrollViewer.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupUniformGrid.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupUniformGrid.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupCheckBox.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupCheckBox.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRadioButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRadioButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTextElement.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTextElement.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupSpan.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupSpan.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRun.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRun.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupBold.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupBold.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupItalic.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupItalic.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupLineBreak.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupLineBreak.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupUnderline.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupUnderline.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupHyperlink.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupHyperlink.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupInlineUIContainer.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupInlineUIContainer.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupStaticExtension.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupStaticExtension.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupSystemColorsStaticExtension.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupSystemColorsStaticExtension.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupXtpScript.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupXtpScript.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupExtension.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupExtension.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowModifier.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPReportBehaviorRowModifier.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPSystemMetrics.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPSystemMetrics.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPTabControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPTabControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBox.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBox.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngwrite.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngerror.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngmem.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngwutil.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngtrans.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngset.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngset.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngrutil.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRotateTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRotateTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupScaleTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupScaleTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTranslateTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTranslateTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupSkewTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupSkewTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometryBuilder.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupPathGeometryBuilder.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiImage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiImage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusImage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusImage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTransformationMatrix.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTransformationMatrix.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRoutedEventArgs.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRoutedEventArgs.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTransform.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTransform.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTransformObject.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGdiPlusTransformObject.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupUIElementCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupUIElementCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDecorator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDecorator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupGridLength.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupGridLength.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupColumnDefinitionCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupColumnDefinitionCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupRowDefinitionCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupRowDefinitionCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupInline.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupInline.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupInlineCollection.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupInlineCollection.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupContentControl.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupContentControl.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupButtonBase.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupButtonBase.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupScrollBar.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupScrollBar.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupToggleButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupToggleButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeDefault.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPListBoxThemeDefault.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngwio.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(pngwtran.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButton.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButton.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageButtonThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupDeviceDependentImage.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupDeviceDependentImage.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPMarkupTransformationMatrix.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPMarkupTransformationMatrix.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPControlTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPControlTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEdit.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEdit.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeUltraFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeUltraFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2000.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2000.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPButtonThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPButtonThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparator.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparator.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPFunctions.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPFunctions.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeDefault.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeDefault.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2000.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2000.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeOfficeXP.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeOfficeXP.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2003.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2003.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeUltraFlat.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeUltraFlat.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2010.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2010.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2012.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2012.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeResource.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeResource.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeOffice2013.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeOffice2013.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeVisualStudio2015.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorThemeVisualStudio2015.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPEditTheme.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPEditTheme.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorPaintManager.obj) : warning LNK4099: 未找到 PDB“ToolkitPro1850vc150x64S.pdb”(使用“ToolkitPro1850vc150S_x64.lib(XTPRibbonBackstageSeparatorPaintManager.obj)”或在“C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\ToolkitPro1850vc150x64S.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  gh0st.vcxproj -> C:\Users\heike\Desktop\本机研究原理\gh0st\Release_x64\gh0st.exe

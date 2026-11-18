@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\heike\\desktop\\本机研究原理\\gh0st\\gh0st.rc",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\heike\\desktop\\本机研究原理\\gh0st\\resource.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\atlmfc\\include\\afxres.h",
+            "c:\\users\\heike\\desktop\\本机研究原理\\gh0st\\res\\gh0st.rc2",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\atlmfc\\include\\l.chs\\afxres.rc"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

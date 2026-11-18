@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\Release_x64\\gh0st.obj",
+            "outputs": [
+                ".\\Release_x64\\gh0st.rc.obj.dt.module.json",
+                ".\\Release_x64\\gh0st.rc.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
