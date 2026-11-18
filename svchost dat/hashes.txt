@@ -1,0 +1,42 @@
+// ===== API ???????????? =====
+#define H_CreateFileA                  0xBDCAC9CE
+#define H_CloseHandle                  0xFABA0065
+#define H_VirtualProtect               0x820621F3
+#define H_FreeLibrary                  0xAB45C5EE
+#define H_GetProcessHeap               0x86FE8652
+#define H_HeapAlloc                    0x0184ED74
+#define H_HeapFree                     0x29630F3D
+#define H_IsBadReadPtr                 0x61621C06
+#define H_Sleep                        0x2FA62CA8
+#define H_GetCurrentProcess            0x6DD8A845
+#define H_GetModuleFileNameA           0x99FBC63D
+#define H_GetEnvironmentVariableA      0xC3D48B63
+#define H_GetTickCount                 0x0F4D8B55
+#define H_OpenProcessToken             0x5E5AD0C3
+#define H_GetTokenInformation          0x035F513A
+#define H_ShellExecuteA                0x0B0FF5BF
+#define H_WSAStartup                   0x20125C5F
+#define H_socket                       0x9012766C
+#define H_connect                      0xAAE0CCF9
+#define H_send                         0x7261C8AF
+#define H_recv                         0xECE4502D
+#define H_closesocket                  0x06834302
+#define H_gethostbyname                0x296EC883
+#define H_WSAGetLastError              0xDFBDD85C
+#define H_WSACleanup                   0x8BD299C2
+#define H_NtCreateSection              0x3C59F362
+#define H_NtMapViewOfSection           0xCBC9E1AE
+#define H_NtUnmapViewOfSection         0x53B808C5
+#define H_NtClose                      0x6B372C05
+#define H_NtAllocateVirtualMemory      0xCA67B978
+#define H_NtProtectVirtualMemory       0xBD799926
+#define H_NtFreeVirtualMemory          0xB51CC567
+#define H_LdrLoadDll                   0x7B566B5F
+
+// ===== ???????????? =====
+#define HM_kernel32_dll 0xA3E6F6C3
+#define HM_ws2_32_dll 0xF730D303
+#define HM_user32_dll 0xC0323159
+#define HM_shell32_dll 0x4F644736
+#define HM_advapi32_dll 0x39794115
+#define HM_ntdll_dll 0xA62A3B3B

@@ -1,0 +1,19 @@
+项目中有几个未使用的 API 指针仍在 InitApiHash 中被解析：
+pReadFile / pWriteFile / pSetFilePointer / pGetFileSize / pVirtualAlloc / pVirtualFree / pLoadLibraryA(未使用) / pGetProcAddress(未使用)
+从 InitApiHash 中删除这些赋值，并从 ApiHash.h 中删掉对应的 extern 和 typedef。省几百字节到 1KB。
+
+
+在当前 /MD 基础上加：
+/O1（MinSpace）替代 /O2
+/GS- 关栈保护
+/GR- 关 RTTI
+/Gy 函数级链接（已有）
+/OPT:REF /OPT:ICF（链接器已有）
+去掉 ProgramDataBaseFileName（不生成 PDB 路径）
+
+
+
+改用 msvcrt.dll 替代当前 CRT 依赖
+原理：msvcrt.dll 自 Windows 95 起就随系统分发，链接它不需要额外 CRT 依赖。用 dumpbin 导出 msvcrt.dll 的导出表，生成自定义 msvcrt.lib，然后在链接时用 /NODEFAULTLIB 禁掉默认 CRT，改为只链接 kernel32.lib 和这个自定义 msvcrt.lib。有实践表明这种方式可以做出 3.5KB 级别的可执行文件。
+本项目代码用了 malloc/free/realloc/memcpy/memset/strchr/strstr/_snprintf/atoi/strncpy/strcpy/wcslen，这些在 msvcrt.dll 中都有对应导出。手写 WinMainCRTStartup 替代默认入口即可。
+代价：需要处理编译器 intrinsic（memset/strlen 等），用 #pragma intrinsic 声明即可。
