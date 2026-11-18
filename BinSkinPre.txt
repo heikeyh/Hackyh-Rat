@@ -1,0 +1,1 @@
+load=1 img=1 valid=0 h=0x0000000010000000 ini='NormalBlack_ini'
