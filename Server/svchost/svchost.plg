@@ -1,0 +1,147 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: svchost - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/svchost.res" /d "NDEBUG" "C:\Documents and Settings\Administrator\桌面\123\Server\svchost\svchost.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAD.tmp" with contents
+[
+/nologo /MD /w /W0 /GX /O2 /I "../../common" /D "WIN32" /D "NDEBUG" /D "_MBCS" /D "_DLL" /Fp"Release/svchost.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\Administrator\桌面\123\common\Audio.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\AudioManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\Buffer.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\ClientSocket.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\Dialupass.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\FileManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\install.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\KernelManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\KeyboardManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\Manager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\RegEditEx.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\RegeditOpt.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\Registry.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\RegManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\ScreenManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\ScreenSpy.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\ServersManagement.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\ServersManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\ShellManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\svchost.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\SysInfo.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\SystemManager.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\until.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\VideoCap.cpp"
+"C:\Documents and Settings\Administrator\桌面\123\Server\svchost\common\VideoManager.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAD.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAE.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ../../common/zlib/zlib.lib Shlwapi.lib MSVCRT.LIB /dll /incremental:no /pdb:"Release/Sunley.pdb" /machine:I386 /out:"../../Bin/Plugins/Consys21.dll" /implib:"Release/Consys21.lib" 
+".\Release\Audio.obj"
+".\Release\AudioManager.obj"
+".\Release\Buffer.obj"
+".\Release\ClientSocket.obj"
+".\Release\Dialupass.obj"
+".\Release\FileManager.obj"
+".\Release\install.obj"
+".\Release\KernelManager.obj"
+".\Release\KeyboardManager.obj"
+".\Release\Manager.obj"
+".\Release\RegEditEx.obj"
+".\Release\RegeditOpt.obj"
+".\Release\Registry.obj"
+".\Release\RegManager.obj"
+".\Release\ScreenManager.obj"
+".\Release\ScreenSpy.obj"
+".\Release\ServersManagement.obj"
+".\Release\ServersManager.obj"
+".\Release\ShellManager.obj"
+".\Release\svchost.obj"
+".\Release\SysInfo.obj"
+".\Release\SystemManager.obj"
+".\Release\until.obj"
+".\Release\VideoCap.obj"
+".\Release\VideoManager.obj"
+".\Release\svchost.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPAE.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+Audio.cpp
+AudioManager.cpp
+Buffer.cpp
+ClientSocket.cpp
+Dialupass.cpp
+FileManager.cpp
+install.cpp
+KernelManager.cpp
+KeyboardManager.cpp
+Manager.cpp
+RegEditEx.cpp
+RegeditOpt.cpp
+Registry.cpp
+RegManager.cpp
+ScreenManager.cpp
+ScreenSpy.cpp
+ServersManagement.cpp
+ServersManager.cpp
+ShellManager.cpp
+svchost.cpp
+SysInfo.cpp
+SystemManager.cpp
+until.cpp
+VideoCap.cpp
+VideoManager.cpp
+Linking...
+Microsoft (R) Incremental Linker Version 6.00.8168
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
+
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib ../../common/zlib/zlib.lib Shlwapi.lib MSVCRT.LIB /dll /incremental:no "/pdb:Release/Sunley.pdb" /machine:I386 "/out:../../Bin/Plugins/Consys21.dll" "/implib:Release/Consys21.lib" 
+".\Release\Audio.obj" 
+".\Release\AudioManager.obj" 
+".\Release\Buffer.obj" 
+".\Release\ClientSocket.obj" 
+".\Release\Dialupass.obj" 
+".\Release\FileManager.obj" 
+".\Release\install.obj" 
+".\Release\KernelManager.obj" 
+".\Release\KeyboardManager.obj" 
+".\Release\Manager.obj" 
+".\Release\RegEditEx.obj" 
+".\Release\RegeditOpt.obj" 
+".\Release\Registry.obj" 
+".\Release\RegManager.obj" 
+".\Release\ScreenManager.obj" 
+".\Release\ScreenSpy.obj" 
+".\Release\ServersManagement.obj" 
+".\Release\ServersManager.obj" 
+".\Release\ShellManager.obj" 
+".\Release\svchost.obj" 
+".\Release\SysInfo.obj" 
+".\Release\SystemManager.obj" 
+".\Release\until.obj" 
+".\Release\VideoCap.obj" 
+".\Release\VideoManager.obj" 
+".\Release\svchost.res" 
+LINK : warning LNK4199: /DELAYLOAD:IMM32.dll ignored; no imports found from IMM32.dll
+LINK : warning LNK4199: /DELAYLOAD:urlmon.dll ignored; no imports found from urlmon.dll
+LINK : warning LNK4199: /DELAYLOAD:OLEAUT32.dll ignored; no imports found from OLEAUT32.dll
+LINK : warning LNK4199: /DELAYLOAD:ole32.dll ignored; no imports found from ole32.dll
+   Creating library Release/Consys21.lib and object Release/Consys21.exp
+LINK : warning LNK4199: /DELAYLOAD:IMM32.dll ignored; no imports found from IMM32.dll
+LINK : warning LNK4199: /DELAYLOAD:urlmon.dll ignored; no imports found from urlmon.dll
+LINK : warning LNK4199: /DELAYLOAD:OLEAUT32.dll ignored; no imports found from OLEAUT32.dll
+LINK : warning LNK4199: /DELAYLOAD:ole32.dll ignored; no imports found from ole32.dll
+LINK : warning LNK4089: all references to "USERENV.dll" discarded by /OPT:REF
+
+
+
+<h3>Results</h3>
+Consys21.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

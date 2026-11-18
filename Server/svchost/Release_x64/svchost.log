@@ -1,0 +1,61 @@
+﻿cl : 命令行 warning D9035: “Zc:forScope-”选项已否决，并将在将来的版本中移除
+cl : 命令行 warning D9025: 正在重写“/Zc:forScope”(用“/Zc:forScope-”)
+  Audio.cpp
+  ClientSocket.cpp
+  AudioManager.cpp
+  Buffer.cpp
+  Dialupass.cpp
+  FileManager.cpp
+  install.cpp
+  KernelManager.cpp
+  KeyboardManager.cpp
+  Manager.cpp
+  RegEditEx.cpp
+  RegeditOpt.cpp
+  Registry.cpp
+  RegManager.cpp
+  ScreenManager.cpp
+  ScreenSpy.cpp
+  ServersManagement.cpp
+  ServersManager.cpp
+  ShellManager.cpp
+  SysInfo.cpp
+  正在生成代码...
+  正在编译...
+  SystemManager.cpp
+  until.cpp
+  VideoCap.cpp
+  VideoManager.cpp
+  svchost.cpp
+  正在生成代码...
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\svchost.dll) 与 Linker 的 OutputFile 属性值(C:\Users\heike\Desktop\本机研究原理\Bin\Plugins\Consys21.dll)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1365,5): warning MSB8012: TargetName(svchost) 与 Linker 的 OutputFile 属性值(Consys21)不匹配。这可能导致项目生成不正确。若要更正此问题，请确保 $(OutDir)、$(TargetName) 和 $(TargetExt) 属性值与 %(Link.OutputFile) 中指定的值匹配。
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:WININET.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:WS2_32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:PSAPI.DLL”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:GDI32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:ADVAPI32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:SHELL32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:AVICAP32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:SHLWAPI.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:IMM32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:urlmon.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:OLEAUT32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:ole32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAYLOAD:NETAPI32.dll”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAY:nobind”；已忽略
+svchost.obj : warning LNK4229: 遇到无效的指令“/DELAY:unload”；已忽略
+zlib_x64_md.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(compress.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(uncompr.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(deflate.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(inflate.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(inflate.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(trees.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(adler32.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(crc32.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(zutil.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(inftrees.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib_x64_md.lib(inffast.obj) : warning LNK4099: 未找到 PDB“zlib_x64_md.pdb”(使用“zlib_x64_md.lib(inffast.obj)”或在“C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\zlib_x64_md.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+    正在创建库 .\Release_x64\Consys21.lib 和对象 .\Release_x64\Consys21.exp
+  svchost.vcxproj -> C:\Users\heike\Desktop\本机研究原理\Server\svchost\Release_x64\svchost.dll
+  Encrypt Consys21.dll -> Consys21.enc (Base64+XOR)
+  [OK] C:\Users\heike\Desktop\本机研究原理\Bin\Plugins\Consys21.dll (256,000 bytes PE) -> C:\Users\heike\Desktop\本机研究原理\Server\svchost\..\..\Bin\Plugins\Consys21.enc (341,336 bytes text)
