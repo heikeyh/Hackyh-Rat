@@ -1,0 +1,103 @@
+﻿# 为 svchost dat 装载器工程添加 Release|x64 配置（保留 Win32）
+$ErrorActionPreference='Stop'
+$root="C:\Users\Administrator\Desktop\本机研究原理"
+$f=Join-Path $root 'svchost dat\svchost dat.vcxproj'
+
+$raw=[IO.File]::ReadAllText($f)
+$eol = if($raw.Contains("`r`n")){"`r`n"}else{"`n"}
+$lines=New-Object 'System.Collections.Generic.List[string]'
+foreach($l in ($raw -split "`r?`n")){ [void]$lines.Add($l) }
+
+function Block($s){ [string[]]@($s -split "`r?`n" | Where-Object { $_ -ne '' }) }
+function Find-Index($pred){ for($i=0;$i -lt $lines.Count;$i++){ if(& $pred $lines[$i]){ return $i } }; throw "anchor not found" }
+function Insert-Before($idx,$blk){ $lines.InsertRange($idx,[string[]]@($blk)) }
+function Insert-After($idx,$blk){ $lines.InsertRange($idx+1,[string[]]@($blk)) }
+
+$pc = Block @'
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+'@
+$cfg = Block @'
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+'@
+$psg = Block @'
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+'@
+$out = Block @'
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>.\Release_x64\</OutDir>
+    <IntDir>.\Release_x64\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+'@
+$idg = Block @'
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MaxSpeed</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WIN64;NDEBUG;_WINDOWS;DEPRECATE_SUPPORTED;STRSAFE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release_x64\</AssemblerListingLocation>
+      <PrecompiledHeaderOutputFile>.\Release_x64\svchost dat.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\Release_x64\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release_x64\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release_x64\svchost dat.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>X64</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release_x64\svchost dat.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>../Bin/DAT/Install.dat</OutputFile>
+      <AdditionalDependencies>User32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+'@
+$pch = Block @'
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">stdafx.h</PrecompiledHeaderFile>
+'@
+
+$pchIdx = Find-Index { param($l) $l.Contains('PrecompiledHeaderFile') -and $l.Contains('Release|Win32') }
+Insert-After $pchIdx $pch
+$idgEnd = Find-Index { param($l) $l.Contains('</ItemDefinitionGroup>') }
+$nextItem=$idgEnd+1
+while(-not $lines[$nextItem].Contains('<ItemGroup>')){ $nextItem++ }
+Insert-Before $nextItem $idg
+$outAnchor = Find-Index { param($l) $l.Contains('ItemDefinitionGroup') -and $l.Contains('Release|Win32') }
+Insert-Before $outAnchor $out
+$psgAnchor = Find-Index { param($l) $l.Contains('Label="UserMacros"') }
+Insert-Before $psgAnchor $psg
+$cfgAnchor = Find-Index { param($l) $l.Contains('Microsoft.Cpp.props') }
+Insert-Before $cfgAnchor $cfg
+$pcAnchor = Find-Index { param($l) $l.Trim() -eq '</ItemGroup>' }
+Insert-Before $pcAnchor $pc
+
+[IO.File]::WriteAllText($f,($lines -join $eol),(New-Object Text.UTF8Encoding($true)))
+"svchost dat x64 配置已写入"
