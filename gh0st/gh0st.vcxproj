@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Template|Win32">
+      <Configuration>Template</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName />
+    <SccLocalPath />
+    <Keyword>MFCProj</Keyword>
+    <ProjectGuid>{81A2AAC1-1E57-4EE4-A090-04CF7F82962F}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Template|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v145</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v145</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v145</PlatformToolset>
+    <UseOfMfc>Static</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Template|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>.\Release_x64\</OutDir>
+    <IntDir>.\Release_x64\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MaxSpeed</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v18.5.0\Source;$(ProjectDir);../common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release\</AssemblerListingLocation>
+      <PrecompiledHeaderOutputFile>.\Release\gh0st.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\Release\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
+    <AdditionalOptions>/Zc:forScope- %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release\gh0st.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release\gh0st.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <AdditionalLibraryDirectories>C:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v18.5.0\Lib\vc150;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>/SAFESEH:NO %(AdditionalOptions)</AdditionalOptions>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>msvcrt.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>../Bin/远控.exe</OutputFile>
+      <AdditionalDependencies>../common/zlib/zlib_noinflate.lib;SHLWAPI.LIB;nafxcw.lib;wininet.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MaxSpeed</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Codejock Software\MFC\Xtreme ToolkitPro v18.5.0\Source;$(ProjectDir);../common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>WIN32;_WIN64;NDEBUG;_WINDOWS;_XTPLIB_NOAUTOLINK;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release_x64\</AssemblerListingLocation>
+      <PrecompiledHeaderOutputFile>.\Release_x64\gh0st.pch</PrecompiledHeaderOutputFile>
+      <ObjectFileName>.\Release_x64\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release_x64\</ProgramDataBaseFileName>
+      <AdditionalOptions>/Zc:forScope- %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release_x64\gh0st.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>X64</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release_x64\gh0st.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <AdditionalLibraryDirectories>C:\Users\heike\Desktop\本机研究原理\ToolkitPro_x64\build;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <IgnoreSpecificDefaultLibraries>msvcrt.lib;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <OutputFile>../Bin/远控.exe</OutputFile>
+      <AdditionalDependencies>../common/zlib/zlib1211_x64_mt.lib;ToolkitPro1850vc150S_x64.lib;../libpng_x64/libpng_x64_mt.lib;SHLWAPI.LIB;nafxcw.lib;wininet.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\common\Audio.cpp" />
+    <ClCompile Include="AudioDlg.cpp" />
+    <ClCompile Include="BmpToAvi.cpp" />
+    <ClCompile Include="BuildServer.cpp" />
+    <ClCompile Include="ChangeGroup.cpp" />
+    <ClCompile Include="ClienttProxy.cpp" />
+    <ClCompile Include="FileManagerDlg.cpp" />
+    <ClCompile Include="FileTransferModeDlg.cpp" />
+    <ClCompile Include="gh0st.cpp" />
+    <ClCompile Include="gh0stDoc.cpp" />
+    <ClCompile Include="gh0stView.cpp" />
+    <ClCompile Include="include\Buffer.cpp" />
+    <ClCompile Include="include\CpuUsage.cpp" />
+    <ClCompile Include="include\IOCPServer.cpp" />
+    <ClCompile Include="IniFile.cpp" />
+    <ClCompile Include="InputDlg.cpp" />
+    <ClCompile Include="KeyBoardDlg.cpp" />
+    <ClCompile Include="LoginDlg.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="RegDataDlg.cpp" />
+    <ClCompile Include="RegDlg.cpp" />
+    <ClCompile Include="ScreenSpyDlg.cpp" />
+    <ClCompile Include="SendMsg.cpp" />
+    <ClCompile Include="SerAttribDlg.cpp" />
+    <ClCompile Include="ServersDlg.cpp" />
+    <ClCompile Include="Settings.cpp" />
+    <ClCompile Include="SEU_QQwry.cpp" />
+    <ClCompile Include="ShellDlg.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">stdafx.h</PrecompiledHeaderFile>
+    <AdditionalOptions>/Zc:forScope- %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <ClCompile Include="SysInfo.cpp" />
+    <ClCompile Include="SystemDlg.cpp" />
+    <ClCompile Include="TrayIcon.cpp" />
+    <ClCompile Include="TrueColorToolBar.cpp" />
+    <ClCompile Include="WebCamDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="gh0st.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\common\macros.h" />
+    <ClInclude Include="AudioDlg.h" />
+    <ClInclude Include="BmpToAvi.h" />
+    <ClInclude Include="BuildServer.h" />
+    <ClInclude Include="ChangeGroup.h" />
+    <ClInclude Include="ClienttProxy.h" />
+    <ClInclude Include="encode.h" />
+    <ClInclude Include="FileManagerDlg.h" />
+    <ClInclude Include="FileTransferModeDlg.h" />
+    <ClInclude Include="gh0st.h" />
+    <ClInclude Include="gh0stDoc.h" />
+    <ClInclude Include="gh0stView.h" />
+    <ClInclude Include="include\Buffer.h" />
+    <ClInclude Include="include\IOCPServer.h" />
+    <ClInclude Include="IniFile.h" />
+    <ClInclude Include="KeyBoardDlg.h" />
+    <ClInclude Include="LoginDlg.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="RegDataDlg.h" />
+    <ClInclude Include="RegDlg.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ScreenSpyDlg.h" />
+    <ClInclude Include="SendMsg.h" />
+    <ClInclude Include="SerAttribDlg.h" />
+    <ClInclude Include="ServersDlg.h" />
+    <ClInclude Include="Settings.h" />
+    <ClInclude Include="SEU_QQwry.h" />
+    <ClInclude Include="ShellDlg.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="SysInfo.h" />
+    <ClInclude Include="SystemDlg.h" />
+    <ClInclude Include="TrayIcon.h" />
+    <ClInclude Include="TrueColorToolBar.h" />
+    <ClInclude Include="WebCamDlg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\334.ico" />
+    <Image Include="res\audio.ico" />
+    <Image Include="res\bitmap2.bmp" />
+    <Image Include="res\Bitmap_4.bmp" />
+    <Image Include="res\Bitmap_5.bmp" />
+    <Image Include="res\Cam.ico" />
+    <Image Include="res\cmdshell.ico" />
+    <Image Include="res\dword.ico" />
+    <Image Include="res\gh0st.ico" />
+    <Image Include="res\icos\1-IP.ico" />
+    <Image Include="res\icos\10-Double.ico" />
+    <Image Include="res\icos\2-os.ico" />
+    <Image Include="res\icos\3-CPU.ico" />
+    <Image Include="res\icos\4-Memory.ico" />
+    <Image Include="res\icos\5-disk.ico" />
+    <Image Include="res\icos\6-UserName.ico" />
+    <Image Include="res\icos\7-Active.ico" />
+    <Image Include="res\icos\8-Anti.ico" />
+    <Image Include="res\keyboard.ico" />
+    <Image Include="res\Logo.bmp" />
+    <Image Include="res\luolei.bmp" />
+    <Image Include="res\NoCam.ico" />
+    <Image Include="res\regedit.ico" />
+    <Image Include="res\regsz.ico" />
+    <Image Include="res\remote.ico" />
+    <Image Include="res\system.ico" />
+    <Image Include="res\ToolBar.bmp" />
+    <Image Include="res\toolbar1.bmp" />
+    <Image Include="res\toolbar2.bmp" />
+    <Image Include="res\webcam.ico" />
+    <Image Include="res\文件夹1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\1.cur" />
+    <CustomBuild Include="res\2.cur" />
+    <CustomBuild Include="res\3.cur" />
+    <CustomBuild Include="res\4.cur" />
+    <CustomBuild Include="res\dot.cur" />
+    <CustomBuild Include="res\gh0st.rc2" />
+    <CustomBuild Include="res\gif1.bin" />
+    <CustomBuild Include="res\gif2.bin" />
+    <CustomBuild Include="res\Skin.she" />
+    <CustomBuild Include="res\upx.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\svchost dat\svchost dat.vcxproj">
+      <Project>{73457e1e-e49b-4926-be8b-862c066f89e1}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
